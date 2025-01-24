@@ -1,6 +1,6 @@
-# Blind 75 - Coding Interview Solutions by Harshika Bansal
+# Blind 75 - Coding Solutions by Harshika Bansal
 
-Welcome to my repository where I share solutions to the **Blind 75** coding interview questions! The **Blind 75** list consists of 75 problems that are frequently asked by top tech companies like Google, Amazon, Microsoft, Meta, and others. This repository serves as a showcase of my programming skills and dedication to solving complex problems using Python.
+Welcome to my repository where I share solutions to the **Blind 75** coding questions! The **Blind 75** list consists of 75 problems that are frequently asked by top tech companies like Google, Amazon, Microsoft, Meta, and others. This repository serves as a showcase of my programming skills and dedication to solving complex problems using Python.
 
 ## 🔑 Key Topics Covered
 
