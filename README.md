@@ -34,5 +34,3 @@ The Blind 75 questions span across the following topics:
 4. **Practice Regularly**: Consistent practice is key to mastering coding interviews.
 
 This repository aims to help you become more confident in tackling technical interviews and strengthen your overall problem-solving skills.
-
-Happy coding and best of luck with your interviews! 🚀
