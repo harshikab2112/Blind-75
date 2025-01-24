@@ -29,7 +29,6 @@ I created this repository to track my progress as I solve the **Blind 75** probl
 ### What you’ll find here:
 - **Python solutions** for each of the Blind 75 problems.
 - **Clear and concise code** that adheres to Python best practices.
-- **No explanations**—just pure code solutions to the problems.
 
 ## 🛠️ Language Used
 
